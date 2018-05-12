@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2561
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28115#The-Great-Sioux-Trail--A-Story-of-Mountain-and-Plain
 gutenberg_issued: '2009-02-18'
 gutenberg_type: Text
 identifiers:
